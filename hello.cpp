@@ -2,7 +2,8 @@
 using namespace std;
 
 int main(){
-	cout<<Hello,Git!!"<<endl;
-	cout<<Hello,World!!"<<endl;
+	cout<<"Hello,Git!!"<<endl;
+	cout<<"Hello,World!!"<<endl;
+	cout<<"Hello,Amitians!!"<<endl;
 	return 0;
 }
